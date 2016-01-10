@@ -1,0 +1,6 @@
+
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_vertical|center_horizontal" android:orientation="vertical" android:background="@color/backgroud">
+        <ImageView android:layout_width="wrap_content" android:id="@+id/imageView1" android:layout_height="wrap_content" android:src="@drawable/gamerdroidlogo" android:layout_gravity="center_horizontal"></ImageView>
+        <Button android:text="@string/enter" android:layout_width="85dip" android:gravity="center_vertical" android:layout_height="70dip" android:id="@+id/enterButton"></Button>
+    
+    </LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, testingui!</string>
+    <string name="app_name">testing</string>
+    <color name="backgroud">#FFFFFFFF</color>
+    <string name="enter">Enter!</string>
+    <string name="blank"></string>
+    <string name="connect">Connect</string>
+    <string name="enterip">Enter the IP address of the server</string>
+    <string name="motion">motion</string>
+    <string name="gamepad">gamepad</string>
+</resources>

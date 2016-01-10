@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<AbsoluteLayout android:layout_width="fill_parent" android:id="@+id/absoluteLayout1" android:layout_height="fill_parent">
+    <ImageButton android:src="@drawable/icon" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_y="10dip" android:id="@+id/upButton" android:layout_x="90dip"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_y="162dip" android:id="@+id/downButton" android:layout_x="90dip"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_y="88dip" android:id="@+id/leftButton" android:layout_x="20dip"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_y="84dip" android:id="@+id/rightButton" android:layout_x="160dip"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_width="50dip" android:layout_height="50dip" android:layout_x="300dip" android:layout_y="10dip" android:id="@+id/repositionButton"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_width="50dip" android:layout_height="50dip" android:layout_y="10dip" android:layout_x="380dip" android:id="@+id/speedBreakerButton"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_x="300dip" android:layout_y="140dip" android:layout_width="100dip" android:layout_height="70dip" android:id="@+id/handBrakeButton"></ImageButton>
+    <ImageButton android:src="@drawable/icon" android:layout_width="100dip" android:layout_height="70dip" android:layout_x="300dip" android:layout_y="70dip" android:id="@+id/nitrousButton"></ImageButton>
+</AbsoluteLayout>
+</LinearLayout>
